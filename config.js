@@ -6,7 +6,7 @@ var path = require('path');
 
 exports.config = {
     debug: true,
-    name: '微信平台',
+    name: '微信平台2',
     cookieSecret: "weixin",
     redisdb: 1,
     redishost: '127.0.0.1',
