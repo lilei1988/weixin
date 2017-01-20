@@ -1,2 +1,2 @@
 Foo
-Bar1
+Bar2
